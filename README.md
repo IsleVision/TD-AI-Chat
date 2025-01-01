@@ -1,5 +1,5 @@
 # TD-AI-Chat-demo
-
+![img.png](img.png)
 ## 简介
 AI聊天演示项目，使用腾迅AI开放平台
 
