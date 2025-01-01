@@ -2,6 +2,7 @@
   import { createApp } from 'vue';
   import TDesign from 'tdesign-vue-next';
   import TDesignChat from '@tdesign-vue-next/chat'; // 引入chat组件
+  import store from './store';
   import Demo from './demo.vue';
 
   // 引入组件库全局样式资源
@@ -10,4 +11,4 @@
 
   const app = createApp(Demo);
 
-  app.use(TDesign).use(TDesignChat).mount('#app');
+  app.use(store).use(TDesign).use(TDesignChat).mount('#app');
