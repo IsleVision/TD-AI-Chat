@@ -1,7 +1,8 @@
 # TD-AI-Chat-demo
 ![img.png](img.png)
 ## 简介
-AI聊天演示项目，使用腾迅AI开放平台
+AI聊天演示项目，使用腾讯云AI开放平台。
+用到的技术栈包括 Vue3、Vite、Vuex、less。
 
 ## 环境要求
 - Node.js: v18+
